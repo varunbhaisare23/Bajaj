@@ -1,7 +1,7 @@
 import requests
 
 user_info = {
-    "name": "Varun Bhaisaret",
+    "name": "Varun Bhaisare",
     "regNo": "0827CI221147",
     "email": "varunbhaisare2210390@acropolis.in"
 }
